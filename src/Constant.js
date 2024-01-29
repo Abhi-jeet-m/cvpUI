@@ -1,8 +1,8 @@
 // const HOST = "https://uatbcsign.docuexec.com/CORE_VALUE_PLEDGE_APP/";
-// const HOST = "http://localhost:8092/CORE_VALUE_PLEDGE_APP/";
+const HOST = "http://localhost:8092/CORE_VALUE_PLEDGE_APP/";
 
 // const HOST = "http://10.10.40.38:8092/CORE_VALUE_PLEDGE_APP/";
-const HOST="/CORE_VALUE_PLEDGE_APP/";
+// const HOST="/CORE_VALUE_PLEDGE_APP/";
 // const HOST = "https://docuxecstage.finfotech.co.in/CORE_VALUE_PLEDGE_APP/";
 
 let URL = {
@@ -15,7 +15,6 @@ let URL = {
   signedpreview: HOST + "downloadSignedPledge/emp-",
   tonsdl: HOST + "submitConsent",
   empList: HOST + "getEmployeeList",
-  // getDocList: HOST + "getDocList", 
   getDocList: HOST + "getDocList", 
   getPDFPath: HOST + "getPDFPath",
   witnessEsign: HOST + "witnessEsign",
