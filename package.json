@@ -1,0 +1,120 @@
+{
+  "name": "@coreui/core-value-pledge-app",
+  "version": "2.6.0",
+  "description": "CoreUI React Open Source Bootstrap 4 Admin Template",
+  "author": "Łukasz Holeczek",
+  "homepage": "https://coreui.io",
+  "copyright": "Copyright 2017-2019 creativeLabs Łukasz Holeczek",
+  "license": "MIT",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:coreui/coreui-free-react-admin-template.git"
+  },
+  "dependencies": {
+    "@coreui/coreui": "^2.1.12",
+    "@coreui/coreui-plugin-chartjs-custom-tooltips": "^1.3.1",
+    "@coreui/icons": "0.3.0",
+    "@coreui/react": "^2.5.4",
+    "@emotion/react": "^11.9.0",
+    "@emotion/styled": "^11.8.1",
+    "@material-table/core": "^4.3.43",
+    "@material-ui/core": "^4.12.3",
+    "@material-ui/icons": "^4.11.2",
+    "@mui/lab": "^5.0.0-alpha.80",
+    "@mui/material": "^5.6.4",
+    "@mui/styles": "^5.6.2",
+    "audit": "0.0.6",
+    "bootstrap": "^4.3.1",
+    "chart.js": "^2.8.0",
+    "classnames": "^2.2.6",
+    "connected-react-router": "^6.5.2",
+    "core-js": "^3.3.2",
+    "datatables.net": "^1.10.20",
+    "datatables.net-buttons": "^1.6.1",
+    "datatables.net-buttons-dt": "^1.6.1",
+    "datatables.net-dt": "^1.10.20",
+    "datetime-moment": "^1.0.0",
+    "enzyme": "^3.10.0",
+    "enzyme-adapter-react-16": "^1.15.1",
+    "file-saver": "^2.0.5",
+    "fix": "0.0.6",
+    "flag-icon-css": "^3.4.2",
+    "font-awesome": "^4.7.0",
+    "history": "^4.10.1",
+    "idempotent-babel-polyfill": "^7.4.4",
+    "jquery": "^3.4.1",
+    "material-table": "^2.0.3",
+    "mgr-pdf-viewer-react": "^1.0.3",
+    "node-sass": "^4.14.1",
+    "papaparse": "^5.3.2",
+    "prop-types": "^15.7.2",
+    "react": "^16.10.2",
+    "react-app-polyfill": "^1.0.4",
+    "react-bootstrap": "^1.0.0-beta.14",
+    "react-chartjs-2": "^2.8.0",
+    "react-confirm-alert": "^2.6.2",
+    "react-data-table-component": "^6.2.1",
+    "react-dom": "^16.10.2",
+    "react-dropzone": "^4.3.0",
+    "react-hot-loader": "^3.1.3",
+    "react-loader": "^2.4.5",
+    "react-loader-spinner": "^2.3.0",
+    "react-pdf": "^4.1.0",
+    "react-read-pdf": "^2.0.9",
+    "react-redux": "^7.1.1",
+    "react-responsive-modal": "^4.0.1",
+    "react-router": "^5.1.2",
+    "react-router-config": "^5.1.1",
+    "react-router-dom": "^5.1.2",
+    "react-router-redux": "^5.0.0-alpha.9",
+    "react-signature-canvas": "^1.0.3",
+    "react-test-renderer": "^16.10.2",
+    "reactjs-pdf-reader": "^1.0.9",
+    "reactjs-pdf-viewer": "0.1.0-beta.1",
+    "reactjs-popup": "^1.5.0",
+    "reactstrap": "^8.0.1",
+    "redux": "^4.0.4",
+    "redux-devtools": "^3.5.0",
+    "redux-thunk": "^2.3.0",
+    "simple-line-icons": "^2.4.1",
+    "styled-components": "^5.0.0"
+  },
+  "devDependencies": {
+    "react-scripts": "^3.4.4",
+    "redux-devtools-dock-monitor": "^1.1.3",
+    "redux-devtools-log-monitor": "^1.4.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "test:cov": "npm test -- --coverage --watchAll=false",
+    "test:debug": "react-scripts --inspect-brk test --runInBand",
+    "eject": "react-scripts eject"
+  },
+  "bugs": {
+    "url": "https://github.com/coreui/coreui-free-react-admin-template/issues"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 9",
+    "not op_mini all"
+  ],
+  "jest": {
+    "collectCoverageFrom": [
+      "src/**/*.{js,jsx}",
+      "!**/*index.js",
+      "!src/serviceWorker.js",
+      "!src/polyfill.js"
+    ]
+  },
+  "engines": {
+    "node": ">=8.10",
+    "npm": ">=6"
+  }
+}

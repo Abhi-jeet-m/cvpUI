@@ -1,0 +1,47 @@
+#titlerow{
+align-content: center;
+  
+}
+
+#submitBtn{
+    align-items: center;
+}
+
+#mobilenumgroup,#mobileOTPgroup
+{
+    margin-left: 5%;
+     width:fit-content;
+     align-items: baseline
+		
+}
+#getotpbtn{
+    width: 100px;
+}
+
+ /* #mobilemsg{
+ margin-left: 150px;   
+} */
+#mobileOTP{
+    margin-left: 28px;
+}  
+
+#mobilenumber{
+    background-color: white;
+   
+}
+#conditions{
+    margin-left: 5%;
+    width: 30px;
+     height: 16px;
+}
+#submitBtn{
+margin-left: 35%;
+margin-bottom:2%
+}
+#witnessContainer{
+  margin-left: 5%;  
+}
+#resendotpbtn{
+margin-left: 10px;
+/* color: blue; */
+}

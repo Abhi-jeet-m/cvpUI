@@ -1,0 +1,90 @@
+#resendOtp{
+  /* float:right; */
+  margin-top: -1px;
+  margin-left: 23px;
+}
+
+#updateBtn{
+    float:right;
+   /* margin-top: -10px; */
+    /* margin-right: -4px; */
+    /* width: 90px; */
+    /* margin-left: 110px;
+    margin-right: 50px; */
+}
+#cancelBtn{
+    float:right;
+    /* width: 90px; */
+}
+#otp{
+    margin-bottom: 0rem !important;
+}
+#mobile{
+    /* margin-top: .5rem; */
+    margin-bottom: 14px;
+}
+#updateBCDeatialsMsg{
+   margin-top: 13px;
+   margin-bottom: 0rem
+}
+#aadharMsg{
+   margin-top: -8px;
+   margin-bottom: -2px;
+}
+#empName1{
+  margin-right: 109px;
+  /* margin-right: 80px; */
+}
+#empDOB1{
+  /* margin-right: 86px; */
+  margin-right: 117px;
+}
+#mobAadhar1{
+  /* margin-right: -2px; */
+  margin-right: 27px;
+}
+#empPanNumber1{
+  /* margin-right: 8px; */
+  margin-right: 2px;
+}
+#mobMessaging1{
+  /* margin-right: 28px; */
+  margin-right: 61px;
+  } 
+#empName,#mobAadhar,#empPanNumber,#mobMessaging,#empDOB {
+    width:150px;
+    } 
+#checkbox{
+    margin-right: 10px;
+    margin-left: 2px;
+    margin-bottom: 2px;
+  }
+#userType1,#userType2{
+   /* //margin-right: 80px; */
+    margin-top: -4px;
+    margin-right: 18px;
+    margin-bottom: 0rem ;
+}
+#bcname1{
+   margin-top: 5px;
+}
+/* #bcname,#bcmobileNum{
+    margin-right: 3px;
+  } */
+#group1,#group2,#group3,#group4,group5{
+  margin-bottom: 0.6rem !important ;
+}
+#bc_id,#select_id{
+  margin-bottom: 0.6rem !important ;
+}
+#loginMsg1,#loginMsg2{
+  margin-bottom: 0.5rem !important ;
+}
+
+#bank{
+  width: "372px";
+  height: "33px" 
+}
+/* #otp{
+  width: 220px;
+} */

@@ -1,0 +1,54 @@
+/* .bcname{
+    color :rgb(248, 42, 42)
+} */
+
+#ipregisterationlink,rejectionlink,#signinglink{ 
+    font-size: 16px;
+    color: #167495; 
+}
+
+#submitIpAddress{
+    width: 100px;
+}
+
+#otpmodalpara-text{
+    max-width: 400px;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#otpmodalrow{
+    width: 100%;
+    margin-top: 35px;
+}
+#newIPLabel{
+    margin-right: 20px;
+}
+#submitIpAddress{
+    margin-left: 8%;
+}
+
+.MuiTablePagination-toolbar {
+    min-height: 5px !important;
+}
+.MuiTableCell-root{
+    line-height: 0px !important;
+    margin-bottom: 0px !important;
+    border-bottom:0px !important;
+    
+    
+}
+.MuiTableCell-footer{
+        background-color: ghostwhite !important;
+        height: 40px;
+
+}
+#tabletdbtns{
+    padding-left:30px;
+}
+.MuiTableCell-sizeSmall{
+    padding: 20px 20px 12px 16px !important;
+}
+#listtable th{
+    text-align: left !important 
+}
