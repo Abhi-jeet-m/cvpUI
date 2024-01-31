@@ -244,17 +244,7 @@ export default class BcaAgreementKAGB extends Component {
                     </ol>
                     <b>2. Term</b>
                     <p>
-                        This Agreement shall commence on the Effective Date as stated in the
-                        preamble and shall remain in force for a period of twelve (12)
-                        months or for a period of the police verification is valid whichever
-                        is earlier. At the end of this period, the Agreement shall be
-                        renewed automatically by a further period of twelve (12) months or
-                        for a period of police verification is valid, whichever is earlier
-                        upon submission police verification, endorsement of satisfactory
-                        operations by the Bank Branch and BCA providing risk coverage
-                        through a guarantee based on the value of transactions unless
-                        terminated for any reason whatsoever as stated hereinafter under
-                        Section 13.
+                        This Agreement shall commence on the Effective Date as stated in the preamble and shall remain in force for a period of twelve (12) months. At the end of this period, the Agreement shall be renewed automatically by a further period of twelve (12) months upon submission of police verification, endorsement of satisfactory operations by the Bank Branch and BCA providing risk coverage through a guarantee based on the volume of transactions unless terminated for any reason whatsoever as stated hereinafter under Section 13.
                     </p>
                     <p>
                         However, the Company reserves the right to automatically renew the agreement even without a valid police
@@ -921,7 +911,7 @@ export default class BcaAgreementKAGB extends Component {
 
                 <br />
                 <br />
-                
+
 
                 <div>{bcaannexure}</div>
                 <br />
